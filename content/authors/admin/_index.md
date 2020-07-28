@@ -89,6 +89,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I work as a biostatistician researcher and as an associate professor in biostatistics in the Faculty of Medicine and Health Sciences at the University of Vic Central University of Catalonia (UVic). I'm collaborating as an sports statistician at FC Barcelona 
+and I collaborated as an external biostatistician and Basketball Analyst at Memphis Grizzlies. I’m a Phd in Statistics and the area of my thesis was titled “Application of random effects models in quantitative epidemiology”. I specialized in the use of statistical methods in real epidemiological cases, 
+public health and medicine. My primary fields of expertise are:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+1. **Sports Biostatistics**: awareness and education of this role, reporting of statistical methods and epidemiological studies, injury prevention 
+2. **Sports Analytics**: awareness and education of this role, team sports (preferably basketball analytics) and tennis
+3. **Teaching Statistical Science**: Basic statistics, epidemiology and sports performance applied to degrees of Medicine, Physical activity and sports sciences, Physiotherapy and Nursing. 
