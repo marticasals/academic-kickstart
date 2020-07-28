@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Statistician
+role: Assistant Professor of Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Vic
+- name: University of Vic – Central University of Catalonia (UVic-UCC)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: hey hey My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include works which deal with Statistical Science, Biostatistics, Epidemiology, Injury prevention, Sports analytics, Sport and Exercise Medicine, and which are scientifically accurate and reliable.
 
 interests:
-- Statistics
-- Sports Sc
-- R
+- Statistical Science (Art of Statistics and Statistical modeling) 
+- Sports Statistics (Sports Biostatistics, Sports Epidemiology and Sports Analytics)
+- Teaching basic Statistics (Communication, Innovation and gamification)
+- R software
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics
+    institution: Barcelona University (UB)
+    year: 2016 (summa cum laude)
+  - course: MSc in Statistics and Operations Research
+    institution: UPC's Faculty of Mathematics and Statistics
+    year: 2008-09 (Top mark)
+  - course: BSc in Financial and Actuarial Sciences
+    institution: Barcelona University (UB)
+    year: 2004
+  - course: BSc in Statistics
+    institution: Barcelona University (UB)
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +51,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/CasalsTMarti?lang=es
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?user=dh7eiloAAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/marticasals
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "marticasals@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
