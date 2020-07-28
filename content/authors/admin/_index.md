@@ -58,6 +58,21 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/marticasals
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0002-1775-8331
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/2900845/marti-casals/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Marti_Casals 
+- icon: LinkedIn 
+  icon_pack: ai
+  link: https://www.linkedin.com/in/marti-casalst-17101979/
+- icon: U-Recerca (UVic-UCC) 
+  icon_pack: ai
+  link: https://urecerca.uvic.cat/CawDOS/jsf/seleccionActividades/seleccionActividades.jsf?id=354eb7fd944020cd&idioma=ca&tipo=activ&elmeucv=N 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
