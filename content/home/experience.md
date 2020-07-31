@@ -91,7 +91,7 @@ Main courses:
   company_url = "https://www.uic.es/es"
   location = "Barcelona"
   date_start = "2009-09-01"
-  date_end = "2014/08/26"
+  date_end = "2014-08-26"
   description = """Teaching
 
 Main courses:
