@@ -44,4 +44,13 @@ Main courses:
   date_end = ""
   description = "Sport Performance Analysis Research Group (SPARG) of the Sport and Physical Activity Studies Centre (CEEAF), University of Vic – Central University of Catalonia (UVic-UCC)"
 
+[[experience]]
+  title = "Researcher sports statistician and teaching statistical sciences activities"
+  company = "Barça Innovation Hub – Universitas (FCB)"
+  company_url = "https://barcainnovationhub.com/es/"
+  location = "Barcelona"
+  date_start = "2017-09-01"
+  date_end = ""
+  description = "Team member of Barça Innovation Hub – Universitas. Statistician Researcher, Sport Science and Medical Department. F.C. Barcelona"
+
 +++
