@@ -76,6 +76,14 @@ Main courses:
   date_end = "2018-01-01"
   description = "External Consulting Sports Injury Prevention Analyst"
 
+[[experience]]
+  title = "Assistant and Researcher Biostatistician of the National Research Centre Network for Epidemiology and Public Health (CIBERESP)"
+  company = "Public Health Agency of Barcelona (Epidemiology Service)"
+  company_url = "https://www.aspb.cat/"
+  location = "Barcelona"
+  date_start = "2007-09-01"
+  date_end = "2017-09-01"
+  description = "Biostatistician consultant and Research Assistant and management"
 
 
 +++
