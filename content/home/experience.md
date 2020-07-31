@@ -85,13 +85,21 @@ Main courses:
   date_end = "2017-09-01"
   description = "Biostatistician consultant and Research Assistant and management"
 
+
+
 [[experience]]
   title = "Assistant professor"
   company = "Universitat Internacional de Catalunya (International University of Catalonia)"
   company_url = "https://www.uic.es/es"
   location = "Barcelona"
   date_start = "2009-09-01"
-  date_end = "2014/08/31"
-  description = """
+  date_end = "2014/08/26"
+  description = """Main courses:
+  
+  * Biostatistics and Epidemiology (Degree in Medicine)
+  * Biostatistics and Epidemiology (Degree in Physiotherapy) 
+  * Biostatistics and Epidemiology (Degree in Dentistry)
+  * Biostatistics and Epidemiology (Degree in Nursing)
+  """
 
 +++
