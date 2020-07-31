@@ -18,13 +18,13 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "60%"
+  description = "65%"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistical Science"
-  description = "70%" 
+  description = "75%" 
 
 [[feature]]
   icon = "basketball-ball"
