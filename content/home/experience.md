@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = ""
   description = """I am currently teaching the subject of Clinical Research and Critical Reading Skills (Degree in Medicine)
-  Main courses:
+  
+Main courses:
   
   * Clinical Research and Critical Reading Skills (Degree in Medicine)
   * Principles of Research in Health Sciences (Degree in Nursing)
@@ -35,12 +36,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Researcher"
+  company = "University of Vic - Central University of Catalonia (UVic-UCC)"
+  company_url = "https://mon.uvic.cat/ceeaf/"
+  location = "Vic"
+  date_start = "2016-09-01"
+  date_end = ""
+  description = "Sport Performance Analysis Research Group (SPARG) of the Sport and Physical Activity Studies Centre (CEEAF), University of Vic – Central University of Catalonia (UVic-UCC)"
 
 +++
