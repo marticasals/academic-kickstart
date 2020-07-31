@@ -94,13 +94,4 @@ Main courses:
   date_end = "2014/08/31"
   description = """
 
-Main courses:
-  
-  * Biostatistics and Epidemiology (Degree in Medicine)
-  * Biostatistics and Epidemiology (Degree in Physiotherapy) 
-  * Biostatistics and Epidemiology (Degree in Dentistry)
-  * Biostatistics and Epidemiology (Degree in Nursing)
- """
-
-
 +++
