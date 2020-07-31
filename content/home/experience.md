@@ -65,7 +65,7 @@ Main courses:
 Main courses:
   
   * Statistics and methodology of applied research of Physical Activity (Degree in Physical Activity and Sports Science)
-
+"""
 
 
 
