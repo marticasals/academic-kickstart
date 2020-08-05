@@ -1,5 +1,5 @@
 +++
-title = "Costes de la tuberculosis en Espa{\~n}a: factores relacionados"
+title = "Costes de la tuberculosis en Espana: factores relacionados"
 date = "2016-01-01"
 authors = ["Jose Antonio Gullon", "Jose Maria Garcia", "Manuel AÅngel Villanueva", "Fernando AÅlvarez-Navascues", "Teresa Rodrigo", "Marti Casals", "Luis Anibarro", "Marta Maria Garcia-Clemente", "Maria AÅngeles Jimenez", "Ana Bustamante", "{others}"]
 publication_types = ["2"]
