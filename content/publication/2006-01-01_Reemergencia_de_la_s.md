@@ -3,3 +3,4 @@ title = "Reemergencia de la s{\'\i}filis infecciosa en varones homosexuales y co
 date = "2006-01-01"
 authors = ["MartA- Vall-Mayans", "MartA- Casals", "AÅlvaro Vives", "Eva Loureiro", "Pere Armengol", "Benicio Sanz"]
 publication_types = ["2"]
++++
