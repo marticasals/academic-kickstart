@@ -89,7 +89,7 @@ user_groups:
 - Visitors
 ---
 
-I am an associate professor in biostatistics in the Faculty of Medicine and Health Sciences and I am a researcher of the Physical Activity and Sport Studies Centre [CEEAF](https://mon.uvic.cat/ceeaf/about/) at the University of Vic Central University of Catalonia (UVic). I'm collaborating as an sports statistician at FC Barcelona 
+I am an associate professor in biostatistics in the Faculty of Medicine and Health Sciences and I am a researcher of the Physical Activity and Sport Studies Centre (CEEAF) at the University of Vic Central University of Catalonia (UVic). I'm collaborating as an sports statistician at FC Barcelona 
 and I collaborated as an external biostatistician and Basketball Analyst at Memphis Grizzlies. I’m a Phd in Statistics and my primary fields of expertise are:
 
 1. **Sports Biostatistics**: awareness and education of this role, reporting of statistical methods and epidemiological studies, and injury prevention. 
