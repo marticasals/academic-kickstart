@@ -1,5 +1,5 @@
 +++
-title = "Cumplimiento en Espa{\~n}a de la norma de prescribir cuatro farmacos en la fase intensiva del tratamiento est{\'a}ndar de la tuberculosis"
+title = "Cumplimiento en Espana de la norma de prescribir cuatro farmacos en la fase intensiva del tratamiento estandar de la tuberculosis"
 date = "2016-01-01"
 authors = ["Jose Maria Garcia", "Teresa Rodrigo", "Marti Casals", "Juan Ruiz-Manzano", "Teresa Pascual-Pascual", "Joan A Cayla", "Grupo de Trabajo {del Programa Integrado}", "{others}"]
 publication_types = ["2"]
