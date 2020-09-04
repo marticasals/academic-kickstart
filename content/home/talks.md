@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
@@ -26,9 +26,9 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "Sports Analytics and Sports Biostatistics (Seminar [in Spanish])"
-    publication_type = "https://www.youtube.com/watch?v=RlSMx02KZTY"
-    author = "Martí Casals"
+    category = ""
+    publication_type = ""
+    author = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
