@@ -26,9 +26,9 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
+    category = "Sports Analytics and Sports Biostatistics (Seminar [in Spanish])"
+    publication_type = "https://www.youtube.com/watch?v=RlSMx02KZTY"
+    author = "Martí Casals"
     exclude_featured = false
     exclude_past = false
     exclude_future = false
